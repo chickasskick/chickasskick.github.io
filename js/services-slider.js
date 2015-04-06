@@ -1,0 +1,2 @@
+// Services slider
+$(window).load(function(){$("#services-slider").carouFredSel({auto:!1,swipe:{onTouch:!0,onMouse:!1},prev:"#services-prev",next:"#services-next",responsive:!0,width:"100%",height:"variable",scroll:1,items:{width:360,height:"variable",visible:{min:1,max:3}}})});

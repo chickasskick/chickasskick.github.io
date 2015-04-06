@@ -1,0 +1,14 @@
+<!-- Service 5 -->
+					<li class="service-item">
+						<img src="images/placeholder-service.png" alt="kieron-baker">
+						<i class="fa fa-trophy"></i>
+						<h4>Designer</h4>
+						<p><strong>Kieron Baker</strong></p>
+						<p>While working full time Kieron balances his studys as a Design Student with playing his band <a href="https://www.facebook.com/alonewithwolves" target="new">Alone With Wolves.</a></p>
+						<p>
+							<ul>
+							<a href="https://twitter.com/SavageSeaDesign" target="new"><i class="fa fa-twitter"></i></a>
+							<a href="https://www.facebook.com/alonewithwolves" target="new"><i class="fa fa-facebook"></i></a>
+							</ul>
+						</p>	
+					</li>
